@@ -1,0 +1,1 @@
+extract_thumbnail(filename, 20)
